@@ -1,0 +1,20 @@
+{
+  "name": "strava",
+  "version": "1.0.0",
+  "description": "Simple sample demo-ing Apollo Server with fetch for Strava API.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "Moon Highway",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "apollo-server": "^2.3.3",
+    "graphql": "^14.1.1",
+    "node-fetch": "^2.3.0"
+  }
+}
